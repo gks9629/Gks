@@ -1,4 +1,4 @@
-# GK Gks — Birthday Website
+ Birthday Website
 
 A responsive birthday microsite inspired by the supplied Netlify reference. It includes a live countdown, age calculator, approximate moon-phase display, interactive candles, memories gallery, and birthday wishes.
 
